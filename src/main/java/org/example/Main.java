@@ -29,6 +29,6 @@ public class Main {
             }
         }
         workers.shutdown();
-        System.out.println("Cu");
+
     }
 }
